@@ -1,0 +1,18 @@
+# 编译生成的所有中间文件（占地方且无用）
+Debug/
+*.o
+*.d
+*.su
+*.cyclo
+*.elf
+*.hex
+*.map
+*.lst
+
+# IDE配置（每个人的电脑路径不同）
+.settings/
+*.prefs
+
+# 其他临时文件
+*.bak
+*.swp

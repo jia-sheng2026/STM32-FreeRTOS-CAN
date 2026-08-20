@@ -22,6 +22,7 @@
 #include <string.h>
 #include <stdio.h>
 #include "semphr.h"
+#include "can_frame.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */

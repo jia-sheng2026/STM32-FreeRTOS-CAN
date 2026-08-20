@@ -25,6 +25,7 @@
 #include "cmsis_os.h"
 #include <stdio.h>
 #include <string.h>
+#include "can_frame.h"
 
 /* Private includes ----------------------------------------------------------*/
 /* USER CODE BEGIN Includes */
